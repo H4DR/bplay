@@ -1,16 +1,16 @@
 {
 	"images": {
 		"bomb": {
-	   		"src": "https://github.com/H4DR/bplay/blob/master/TETA/Bomb.png?raw=true"
+	   		"src": "http://i.imgur.com/ojFJd7J.png"
 		},
 		"arrow": {
-			"https://github.com/H4DR/bplay/blob/master/TETA/Arrow.jpg?raw=true"
+			"src": "http://i.imgur.com/pVp7pEY.png"
 		},
 		"heart": {
-			"src": "https://github.com/H4DR/bplay/blob/master/TETA/HeartT.png?raw=true"
+			"src": "http://i.imgur.com/tUTKbzn.png"
 		},
 		"heartEmpty": {
-			"src": "https://github.com/H4DR/bplay/blob/master/TETA/HeartEmptyT.png?raw=true"
+			"src": "http://i.imgur.com/zBSHXOD.png"
 		},
 		"letter": {
 			"src": "http://i.imgur.com/ySfXDoP.png"
@@ -23,7 +23,7 @@
 		}
 	},
 	"css": {
-		"text": "#JoinGameButton{text-indent:-999px;line-height:0;visibility:hidden;padding:0 0}#JoinGameButton:after{content:';o;'; text-indent:0;display:block;line-height:initial;visibility:visible;font-size:32pt;color:white;text-shadow:0 0 24px white;padding:0.5em 1em}#App{background:url(https://github.com/H4DR/bplay/blob/master/TETA/backT.jpg?raw=true) center}#AppsBar,#Sidebar{background:#0D0D0D}#App>header{box-shadow:0 0 2em rgba(128,89,155,.6);background:linear-gradient(to bottom,rgba(13,13,13,.65) 60%,rgba(240,240,240,.1) 100%)}"
+		"text": "#JoinGameButton{text-indent:-999px;line-height:0;visibility:hidden;padding:0 0}#JoinGameButton:after{content:';o;'; text-indent:0;display:block;line-height:initial;visibility:visible;font-size:32pt;color:white;text-shadow:0 0 24px white;padding:0.5em 1em}#App{background:url(https://imgur.com/a/lNNbOZb) center}#AppsBar,#Sidebar{background:#0D0D0D}#App>header{box-shadow:0 0 2em rgba(128,89,155,.6);background:linear-gradient(to bottom,rgba(13,13,13,.65) 60%,rgba(240,240,240,.1) 100%)}"
 	},
 	"textStyles": {	
 		"highlightedText": {
